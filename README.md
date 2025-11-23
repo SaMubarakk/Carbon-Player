@@ -18,6 +18,18 @@ Unlike standard IPTV apps that use heavy web engines, Carbon Player integrates d
 
 *No installation required. Portable Windows App.*
 
+## 🛡️ Installation Note (Windows SmartScreen)
+
+When you launch `CarbonPlayer.exe` for the first time, you might see a blue window saying **"Windows protected your PC"**.
+
+This happens because I am an independent developer and I have not paid for a Microsoft Digital Code Signing Certificate (which costs hundreds of dollars a year).
+
+**To run the app:**
+1. Click **"More Info"**.
+2. Click **"Run Anyway"**.
+
+*The application is 100% open source and safe. You can review the code in this repository yourself.*
+
 ## 🛠️ Requirements & Setup
 
 To ensure video plays correctly, you must have the appropriate codecs installed:
